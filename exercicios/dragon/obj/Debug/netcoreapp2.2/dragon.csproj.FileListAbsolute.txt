@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\obj\Debug\netcoreapp2.2\dragon.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\obj\Debug\netcoreapp2.2\dragon.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\obj\Debug\netcoreapp2.2\dragon.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\obj\Debug\netcoreapp2.2\dragon.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\bin\Debug\netcoreapp2.2\dragon.deps.json
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\bin\Debug\netcoreapp2.2\dragon.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\bin\Debug\netcoreapp2.2\dragon.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\bin\Debug\netcoreapp2.2\dragon.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\bin\Debug\netcoreapp2.2\dragon.pdb
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\obj\Debug\netcoreapp2.2\dragon.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\dragon\obj\Debug\netcoreapp2.2\dragon.pdb
