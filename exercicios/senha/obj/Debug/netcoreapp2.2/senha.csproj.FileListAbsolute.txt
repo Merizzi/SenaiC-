@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\bin\Debug\netcoreapp2.2\senha.deps.json
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\bin\Debug\netcoreapp2.2\senha.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\bin\Debug\netcoreapp2.2\senha.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\bin\Debug\netcoreapp2.2\senha.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\bin\Debug\netcoreapp2.2\senha.pdb
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\obj\Debug\netcoreapp2.2\senha.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\obj\Debug\netcoreapp2.2\senha.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\obj\Debug\netcoreapp2.2\senha.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\obj\Debug\netcoreapp2.2\senha.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\obj\Debug\netcoreapp2.2\senha.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\senha\obj\Debug\netcoreapp2.2\senha.pdb

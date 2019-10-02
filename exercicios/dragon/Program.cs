@@ -18,19 +18,9 @@ namespace dragon {
 
                     case "1":
                         Console.Clear ();
-
                         // Inicio Guerreiro
-                        Guerreiro guerreiro = new Guerreiro ();
-                        guerreiro.Nome = "Skilpadde";
-                        guerreiro.Sobrenome = "Merizzi";
-                        guerreiro.Cidade = "Oslo";
-                        guerreiro.Datanascimento = DateTime.Parse ("13/03/1109");
-                        guerreiro.Ataque = "Espada Longa";
-                        guerreiro.Protecao = "Escudo";
-                        guerreiro.Forca = 2;
-                        guerreiro.Destreza = 3;
-                        guerreiro.Inteligencia = 3;
-                        guerreiro.Vida = 20;
+                        Guerreiro guerreiro = CriarGuerreiro ();
+                       
                         // Fim Guerreiro  //
 
                         // Incio Dragão
@@ -41,6 +31,7 @@ namespace dragon {
                         dragao.Inteligencia = 3;
                         dragao.Vida = 300;
 
+                        CriarDialogo ("{0}: Seu Louco vim te Derrotar!", guerreiro.Nome);
                         System.Console.WriteLine ("{0}: {1}!, Eu sou {2} e vim lhe Derrotar!!", guerreiro.Nome, dragao.Nome, guerreiro.Nome);
                         System.Console.WriteLine ("{0}: HAHAHAHA! Faça me rir humano. Quem tu pensas que és?!?", dragao.Nome);
 
@@ -120,11 +111,7 @@ namespace dragon {
                                 } else {
                                     System.Console.WriteLine ("{0}: Vem tranquilo!", guerreiro.Nome);
                                 }
-                                System.Console.WriteLine ();
-                                System.Console.WriteLine ("Aperte ENTER para prosseguir...");
-                                Console.ReadLine ();
-
-                                Console.Clear ();
+                                FinalizarDialogo ();
                                 System.Console.WriteLine ("---------Turno do Jogador---------");
                                 System.Console.WriteLine ("Escolha sua ação: ");
                                 System.Console.WriteLine ("1- Atacar");
@@ -137,8 +124,8 @@ namespace dragon {
                                         numeroAleatorio = geradorNumero.Next (0, 5);
                                         numeroAleatorioDragao = geradorNumero.Next (0, 5);
 
-                                         guerreiroDestrezatotal = guerreiro.Destreza + numeroAleatorio;
-                                         dragaoDestrezaTotal = dragao.Destreza + numeroAleatorioDragao;
+                                        guerreiroDestrezatotal = guerreiro.Destreza + numeroAleatorio;
+                                        dragaoDestrezaTotal = dragao.Destreza + numeroAleatorioDragao;
 
                                         if (guerreiroDestrezatotal > dragaoDestrezaTotal) {
                                             System.Console.WriteLine ("{0}: Toma essa Lagarto MALDITO!", guerreiro.Nome);
@@ -150,15 +137,13 @@ namespace dragon {
                                         } else {
                                             System.Console.WriteLine ("{0}: Errroouu, humano tolo!", dragao.Nome);
                                         }
-                                        if(guerreiro.Vida<= 0){
-                                            System.Console.WriteLine("Guerreiro Pereceu!");
+                                        if (guerreiro.Vida <= 0) {
+                                            System.Console.WriteLine ("Guerreiro Pereceu!");
                                         }
-                                        if(dragao.Vida <= 0){
-                                            System.Console.WriteLine("O dragão faleceu!");
+                                        if (dragao.Vida <= 0) {
+                                            System.Console.WriteLine ("O dragão faleceu!");
                                         }
-                                        System.Console.WriteLine();
-                                        System.Console.WriteLine("Aperte ENTER para prosseguir...");
-                                        Console.ReadLine();
+
                                         break;
 
                                     case "2":
@@ -167,9 +152,7 @@ namespace dragon {
                                         System.Console.WriteLine ("{0}: GG IZI", dragao.Nome);
                                         break;
                                 }
-                                System.Console.WriteLine();
-                                System.Console.WriteLine ("Aperte ENTER para prosseguir..");
-                                Console.ReadLine ();
+                                FinalizarDialogo ();
 
                             }
                         }
@@ -177,7 +160,7 @@ namespace dragon {
                         break;
 
                     case "0":
-                    jogadorNDesistiu = false;
+                        jogadorNDesistiu = false;
                         break;
 
                     default:
@@ -187,5 +170,32 @@ namespace dragon {
             } while (jogadorNDesistiu);
 
         }
+        private static void CriarDialogo (string nome, string frase) {
+            System.Console.WriteLine ("{0}: {1}", nome, frase);
+        }
+
+        private static void FinalizarDialogo () {
+            System.Console.WriteLine ();
+            System.Console.WriteLine ("Aperte ENTER para prosseguir");
+            Console.ReadLine ();
+            Console.Clear ();
+
+        }
+
+        private static Guerreiro CriarGuerreiro () {
+            Guerreiro guerreiro = new Guerreiro ();
+            guerreiro.Nome = "Skilpadde";
+            guerreiro.Sobrenome = "Merizzi";
+            guerreiro.Cidade = "Oslo";
+            guerreiro.Datanascimento = DateTime.Parse ("13/03/1109");
+            guerreiro.Ataque = "Espada Longa";
+            guerreiro.Protecao = "Escudo";
+            guerreiro.Forca = 2;
+            guerreiro.Destreza = 3;
+            guerreiro.Inteligencia = 3;
+            guerreiro.Vida = 20;
+            return guerreiro;
+        }
     }
+
 }
