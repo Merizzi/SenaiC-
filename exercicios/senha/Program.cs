@@ -4,29 +4,52 @@ namespace senha {
     class Program {
         static void Main (string[] args) {
 
-            Cliente c = new Cliente();
+            System.Console.WriteLine ("Cadastro de Clientes");
+            System.Console.WriteLine ();
+            System.Console.Write ("Nome: ");
+            string nome = Console.ReadLine ();
+            System.Console.Write ("CPF: ");
+            string cpf = Console.ReadLine ();
+            System.Console.Write ("Email: ");
+            string email = Console.ReadLine ();
+            Cliente cliente1 = new Cliente (nome, cpf, email);
+            
+            bool senhaOk = false;
+            do {
+                System.Console.Write ("Digite a Senha: ");
+                string senha = Console.ReadLine ();
+                senhaOk = cliente1.TrocaSenha (senha);
+                if (!senhaOk) {
+                    System.Console.WriteLine ("Senha não atende aos requisitos !");
+                } else {
+                    System.Console.WriteLine ("Senha trocada com sucesso !");
+                }
+            } while (!senhaOk);
 
-            Console.WriteLine ("Byte Bank");
+            System.Console.WriteLine("Cadastro da Conta Corrente");
+            System.Console.Write("Agencia: ");
+            int agencia = int.Parse(Console.ReadLine());
+            System.Console.Write("Conta: ");
+            int Conta = int.Parse(Console.ReadLine());
+            System.Console.Write("Titular: ");
+            string titular = Console.ReadLine();
 
-            Console.Write ("Digite o seu Nome: ");
-            string nome =Console.ReadLine();
+            bool saldoValido = false;
+            double saldo;
+            do{
+                System.Console.WriteLine("Digite o saldo: ");
+                saldo = double.Parse(Console.ReadLine());
+                if(saldo > 0){
+                    saldoValido = true;
+                    System.Console.WriteLine("");
+                }
+                else{
+                    System.Console.WriteLine("O saldo não pode ser negativo");
+                }
+            }while(!saldoValido);
 
-            Console.Write ("Digite o seu CPF: ");
-            string cpf = Console.ReadLine();
-
-            Console.Write ("Digite o seu Email: ");
-            string email = Console.ReadLine();
-
-            Console.WriteLine ("Digite a sua Senha(Ela deverá ter no minimo 6 caracteres e no maximo 16 caracteres): ");
-            c.Senha = Console.ReadLine();
-
-           /*  if(c.Senha<6 && c.Senha > 16 ){
-                System.Console.WriteLine("Senha incorreta, digite novamente");
-                Console.WriteLine ("Digite a sua Senha(Ela deverá ter no minimo 6 caracteres e no maximo 16 caracteres): ");
-                c.Senha = Console.ReadLine();
-             }*/
-            System.Console.WriteLine("{0}, {1}, {2}, {3}", c.Nome, c.Cpf, c.Email, c.Senha);
-
+            ContaCorrente contaCorrente = new ContaCorrente (titular, Conta, agencia);
+            contaCorrente.Saldo = saldo;
         }
     }
 }
