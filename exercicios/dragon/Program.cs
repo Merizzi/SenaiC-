@@ -170,6 +170,8 @@ namespace dragon {
             } while (jogadorNDesistiu);
 
         }
+
+        
         private static void CriarDialogo (string nome, string frase) {
             System.Console.WriteLine ("{0}: {1}", nome, frase);
         }

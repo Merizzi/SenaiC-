@@ -31,8 +31,8 @@ namespace senha {
             int agencia = int.Parse(Console.ReadLine());
             System.Console.Write("Conta: ");
             int Conta = int.Parse(Console.ReadLine());
-            System.Console.Write("Titular: ");
-            string titular = Console.ReadLine();
+            //System.Console.Write("Titular: ");
+            //string titular = Console.ReadLine();
 
             bool saldoValido = false;
             double saldo;
@@ -48,8 +48,41 @@ namespace senha {
                 }
             }while(!saldoValido);
 
-            ContaCorrente contaCorrente = new ContaCorrente (titular, Conta, agencia);
+            ContaCorrente contaCorrente = new ContaCorrente (cliente1, Conta, agencia);
             contaCorrente.Saldo = saldo;
+
+            System.Console.WriteLine("ByteBank Deposito");
+            Cliente usuario = contaCorrente.Titular;
+            System.Console.WriteLine("Bem Vindo - {0}", usuario.Nome);
+            System.Console.WriteLine("Agencia: {0} , Conta: {1}", contaCorrente.Agenda, contaCorrente.Numero);
+            System.Console.WriteLine("Saldo: {0}", contaCorrente.Saldo);
+            System.Console.Write("Digite o valor do Deposito:");
+            double valor = double.Parse(Console.ReadLine());
+            contaCorrente.Deposito(valor);
+            System.Console.WriteLine();
+            System.Console.WriteLine("ByteBank - Saque");
+            Console.Write("Qual o valor do Saque? ");
+            valor = double.Parse(Console.ReadLine());
+            if(contaCorrente.Saque(valor)){
+                System.Console.WriteLine("Saque Realizado com sucesso. Retire suas notas");
+            }
+            else{
+                System.Console.WriteLine("Não foi possivel realizar o saque");
+            }
+            System.Console.WriteLine();
+
+            System.Console.WriteLine("ByteBank - Transferência");
+            System.Console.Write("Digite o valor da transferência: ");
+            valor = double.Parse(Console.ReadLine());
+            Cliente cliente2 = new Cliente("Alexandre", "123.321.123-12", "a@a.com");
+            ContaCorrente contaCorrente2 = new ContaCorrente(cliente2,123, 123 );
+            if(contaCorrente.Transferencia(contaCorrente2,valor))
+            {
+                System.Console.WriteLine("Transferencia efetuada com sucesso");
+            }
+            else{
+                System.Console.WriteLine("Transferencia não foi efetuada");
+            }
         }
     }
 }
