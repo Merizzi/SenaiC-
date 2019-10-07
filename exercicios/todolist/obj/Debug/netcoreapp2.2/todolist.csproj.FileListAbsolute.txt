@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\bin\Debug\netcoreapp2.2\todolist.deps.json
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\bin\Debug\netcoreapp2.2\todolist.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\bin\Debug\netcoreapp2.2\todolist.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\bin\Debug\netcoreapp2.2\todolist.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\bin\Debug\netcoreapp2.2\todolist.pdb
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\obj\Debug\netcoreapp2.2\todolist.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\obj\Debug\netcoreapp2.2\todolist.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\obj\Debug\netcoreapp2.2\todolist.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\obj\Debug\netcoreapp2.2\todolist.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\obj\Debug\netcoreapp2.2\todolist.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\todolist\obj\Debug\netcoreapp2.2\todolist.pdb
