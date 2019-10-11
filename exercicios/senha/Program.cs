@@ -49,17 +49,29 @@ namespace senha {
             }while(!saldoValido);
 
             ContaCorrente contaCorrente = new ContaCorrente (cliente1, Conta, agencia);
-            contaCorrente.Saldo = saldo;
+            contaCorrente.Deposito(saldo);
+            contaCorrente.Agenda = 123;
 
+            bool valorValido = false;
+            double valor;
+
+            do {
             System.Console.WriteLine("ByteBank Deposito");
             Cliente usuario = contaCorrente.Titular;
             System.Console.WriteLine("Bem Vindo - {0}", usuario.Nome);
             System.Console.WriteLine("Agencia: {0} , Conta: {1}", contaCorrente.Agenda, contaCorrente.Numero);
             System.Console.WriteLine("Saldo: {0}", contaCorrente.Saldo);
             System.Console.Write("Digite o valor do Deposito:");
-            double valor = double.Parse(Console.ReadLine());
+             valor = double.Parse(Console.ReadLine());
             contaCorrente.Deposito(valor);
             System.Console.WriteLine();
+            if(valor >= 0){
+                valorValido = true;
+            }
+            else{
+                valorValido = false;
+            }
+            }while(!valorValido);
             System.Console.WriteLine("ByteBank - Saque");
             Console.Write("Qual o valor do Saque? ");
             valor = double.Parse(Console.ReadLine());
@@ -71,6 +83,7 @@ namespace senha {
             }
             System.Console.WriteLine();
 
+            
             System.Console.WriteLine("ByteBank - Transferência");
             System.Console.Write("Digite o valor da transferência: ");
             valor = double.Parse(Console.ReadLine());
