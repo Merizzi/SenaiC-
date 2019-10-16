@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\bin\Debug\netcoreapp2.2\musica.deps.json
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\bin\Debug\netcoreapp2.2\musica.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\bin\Debug\netcoreapp2.2\musica.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\bin\Debug\netcoreapp2.2\musica.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\bin\Debug\netcoreapp2.2\musica.pdb
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\obj\Debug\netcoreapp2.2\musica.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\obj\Debug\netcoreapp2.2\musica.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\obj\Debug\netcoreapp2.2\musica.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\obj\Debug\netcoreapp2.2\musica.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\obj\Debug\netcoreapp2.2\musica.dll
+C:\Users\43097878866\Documents\sprint3\exercicios\musica\obj\Debug\netcoreapp2.2\musica.pdb
