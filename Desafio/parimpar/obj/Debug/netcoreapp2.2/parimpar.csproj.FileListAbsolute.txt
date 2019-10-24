@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\bin\Debug\netcoreapp2.2\parimpar.deps.json
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\bin\Debug\netcoreapp2.2\parimpar.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\bin\Debug\netcoreapp2.2\parimpar.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\bin\Debug\netcoreapp2.2\parimpar.dll
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\bin\Debug\netcoreapp2.2\parimpar.pdb
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\obj\Debug\netcoreapp2.2\parimpar.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\obj\Debug\netcoreapp2.2\parimpar.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\obj\Debug\netcoreapp2.2\parimpar.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\obj\Debug\netcoreapp2.2\parimpar.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\obj\Debug\netcoreapp2.2\parimpar.dll
+C:\Users\43097878866\Documents\sprint3\desafio\parimpar\obj\Debug\netcoreapp2.2\parimpar.pdb

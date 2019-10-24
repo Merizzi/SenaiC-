@@ -6,7 +6,7 @@ namespace desafio
     {
         static void Main(string[] args)
         {
-                     int n, c, l, y;
+            int n, c, l, y;
             Console.WriteLine ("Digite a quantida de triangulos: ");
             y = int.Parse (Console.ReadLine ());
             Console.WriteLine ("Digite o Tamanho: ");

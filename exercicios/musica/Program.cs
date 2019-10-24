@@ -42,12 +42,16 @@ namespace musica
                     "  -0  ",
                     "  -1  "
             };
-            InstrumentoMusical generico = new InstrumentoMusical();
+           
+        }
+    }
+}
+
+
+
+/* InstrumentoMusical generico = new InstrumentoMusical();
             System.Console.WriteLine("Generico: "+ generico.TocarMusica());
 
             Violao violao1 = new Violao();
             System.Console.WriteLine("Violao "+violao1);
-            violao1.TocarAcordes();
-        }
-    }
-}
+            violao1.TocarAcordes();*/

@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\bin\Debug\netcoreapp2.2\sequencia.deps.json
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\bin\Debug\netcoreapp2.2\sequencia.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\bin\Debug\netcoreapp2.2\sequencia.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\bin\Debug\netcoreapp2.2\sequencia.dll
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\bin\Debug\netcoreapp2.2\sequencia.pdb
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\obj\Debug\netcoreapp2.2\sequencia.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\obj\Debug\netcoreapp2.2\sequencia.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\obj\Debug\netcoreapp2.2\sequencia.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\obj\Debug\netcoreapp2.2\sequencia.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\obj\Debug\netcoreapp2.2\sequencia.dll
+C:\Users\43097878866\Documents\sprint3\desafio\sequencia\obj\Debug\netcoreapp2.2\sequencia.pdb

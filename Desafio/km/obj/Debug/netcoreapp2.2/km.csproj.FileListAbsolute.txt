@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\km\bin\Debug\netcoreapp2.2\km.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\km\bin\Debug\netcoreapp2.2\km.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\km\bin\Debug\netcoreapp2.2\km.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\km\bin\Debug\netcoreapp2.2\km.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\km\bin\Debug\netcoreapp2.2\km.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\km\obj\Debug\netcoreapp2.2\km.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\km\obj\Debug\netcoreapp2.2\km.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\km\obj\Debug\netcoreapp2.2\km.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\km\obj\Debug\netcoreapp2.2\km.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\km\obj\Debug\netcoreapp2.2\km.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\km\obj\Debug\netcoreapp2.2\km.pdb
