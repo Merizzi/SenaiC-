@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\bin\Debug\netcoreapp2.2\planeta.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\bin\Debug\netcoreapp2.2\planeta.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\bin\Debug\netcoreapp2.2\planeta.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\bin\Debug\netcoreapp2.2\planeta.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\bin\Debug\netcoreapp2.2\planeta.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\obj\Debug\netcoreapp2.2\planeta.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\obj\Debug\netcoreapp2.2\planeta.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\obj\Debug\netcoreapp2.2\planeta.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\obj\Debug\netcoreapp2.2\planeta.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\obj\Debug\netcoreapp2.2\planeta.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\planeta\obj\Debug\netcoreapp2.2\planeta.pdb

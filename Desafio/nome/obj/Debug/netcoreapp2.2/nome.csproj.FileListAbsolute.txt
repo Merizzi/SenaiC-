@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\obj\Debug\netcoreapp2.2\nome.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\obj\Debug\netcoreapp2.2\nome.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\obj\Debug\netcoreapp2.2\nome.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\obj\Debug\netcoreapp2.2\nome.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\bin\Debug\netcoreapp2.2\nome.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\bin\Debug\netcoreapp2.2\nome.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\bin\Debug\netcoreapp2.2\nome.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\bin\Debug\netcoreapp2.2\nome.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\bin\Debug\netcoreapp2.2\nome.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\obj\Debug\netcoreapp2.2\nome.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\nome\obj\Debug\netcoreapp2.2\nome.pdb

@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\obj\Debug\netcoreapp2.2\graus.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\obj\Debug\netcoreapp2.2\graus.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\obj\Debug\netcoreapp2.2\graus.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\obj\Debug\netcoreapp2.2\graus.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\bin\Debug\netcoreapp2.2\graus.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\bin\Debug\netcoreapp2.2\graus.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\bin\Debug\netcoreapp2.2\graus.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\bin\Debug\netcoreapp2.2\graus.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\bin\Debug\netcoreapp2.2\graus.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\obj\Debug\netcoreapp2.2\graus.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\graus\obj\Debug\netcoreapp2.2\graus.pdb

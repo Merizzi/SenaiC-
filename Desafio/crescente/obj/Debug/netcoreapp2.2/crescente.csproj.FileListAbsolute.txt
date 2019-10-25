@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\obj\Debug\netcoreapp2.2\crescente.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\obj\Debug\netcoreapp2.2\crescente.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\obj\Debug\netcoreapp2.2\crescente.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\obj\Debug\netcoreapp2.2\crescente.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\bin\Debug\netcoreapp2.2\crescente.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\bin\Debug\netcoreapp2.2\crescente.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\bin\Debug\netcoreapp2.2\crescente.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\bin\Debug\netcoreapp2.2\crescente.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\bin\Debug\netcoreapp2.2\crescente.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\obj\Debug\netcoreapp2.2\crescente.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\crescente\obj\Debug\netcoreapp2.2\crescente.pdb

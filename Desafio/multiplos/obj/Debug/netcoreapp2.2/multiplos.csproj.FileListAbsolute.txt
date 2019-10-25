@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\bin\Debug\netcoreapp2.2\multiplos.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\bin\Debug\netcoreapp2.2\multiplos.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\bin\Debug\netcoreapp2.2\multiplos.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\bin\Debug\netcoreapp2.2\multiplos.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\bin\Debug\netcoreapp2.2\multiplos.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\obj\Debug\netcoreapp2.2\multiplos.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\obj\Debug\netcoreapp2.2\multiplos.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\obj\Debug\netcoreapp2.2\multiplos.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\obj\Debug\netcoreapp2.2\multiplos.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\obj\Debug\netcoreapp2.2\multiplos.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\multiplos\obj\Debug\netcoreapp2.2\multiplos.pdb
