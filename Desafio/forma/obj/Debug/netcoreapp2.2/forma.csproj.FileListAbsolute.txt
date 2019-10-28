@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\bin\Debug\netcoreapp2.2\forma.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\bin\Debug\netcoreapp2.2\forma.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\bin\Debug\netcoreapp2.2\forma.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\bin\Debug\netcoreapp2.2\forma.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\bin\Debug\netcoreapp2.2\forma.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\obj\Debug\netcoreapp2.2\forma.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\obj\Debug\netcoreapp2.2\forma.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\obj\Debug\netcoreapp2.2\forma.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\obj\Debug\netcoreapp2.2\forma.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\obj\Debug\netcoreapp2.2\forma.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\forma\obj\Debug\netcoreapp2.2\forma.pdb

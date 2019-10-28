@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\obj\Debug\netcoreapp2.2\mes.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\obj\Debug\netcoreapp2.2\mes.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\obj\Debug\netcoreapp2.2\mes.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\obj\Debug\netcoreapp2.2\mes.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\bin\Debug\netcoreapp2.2\mes.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\bin\Debug\netcoreapp2.2\mes.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\bin\Debug\netcoreapp2.2\mes.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\bin\Debug\netcoreapp2.2\mes.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\bin\Debug\netcoreapp2.2\mes.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\obj\Debug\netcoreapp2.2\mes.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\mes\obj\Debug\netcoreapp2.2\mes.pdb

@@ -1,0 +1,11 @@
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\bin\Debug\netcoreapp2.2\numimpar.deps.json
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\bin\Debug\netcoreapp2.2\numimpar.runtimeconfig.json
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\bin\Debug\netcoreapp2.2\numimpar.runtimeconfig.dev.json
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\bin\Debug\netcoreapp2.2\numimpar.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\bin\Debug\netcoreapp2.2\numimpar.pdb
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\obj\Debug\netcoreapp2.2\numimpar.csprojAssemblyReference.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\obj\Debug\netcoreapp2.2\numimpar.csproj.CoreCompileInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\obj\Debug\netcoreapp2.2\numimpar.AssemblyInfoInputs.cache
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\obj\Debug\netcoreapp2.2\numimpar.AssemblyInfo.cs
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\obj\Debug\netcoreapp2.2\numimpar.dll
+C:\Users\43097878866\Documents\sprint3\Desafio\numimpar\obj\Debug\netcoreapp2.2\numimpar.pdb
